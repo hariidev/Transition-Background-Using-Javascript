@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background:#0d0923 ;
+    font-family: 'Tangerine', sans-serif;
+    transition: all 1s ease;
+    color: white;
+
+   
+}
+
+header {
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    text-align: center;
+    
+  
+}
+
+
+.intro-text h1 {
+
+    font-size: 80px;
+    margin-bottom: 10px;
+}
+
+.intro-text p {
+
+    font-size: 40px;
+    
+}
+section {
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+section img {
+
+    width: 70%;
+    height: 80%;
+    
+}
+.page-2 {
+    
+    text-align: center;
+    width: 70%;
+}
+
+.page-2 h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+   
+}
+
+.bg-active {
+
+    background: white;
+    color: black;
+}

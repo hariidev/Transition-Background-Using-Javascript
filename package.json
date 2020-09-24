@@ -1,0 +1,19 @@
+{
+  "name": "transitionbackgroundusingjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariidev/Transition-Background-Using-Javascript.git"
+  },
+  "author": "Hari Sugirthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariidev/Transition-Background-Using-Javascript/issues"
+  },
+  "homepage": "https://github.com/hariidev/Transition-Background-Using-Javascript#readme"
+}
